@@ -31,7 +31,7 @@ The software is so simple that there should be no problem to use it. If you real
 
 [![Ethovision Missing Samples demo](http://img.youtube.com/vi/4o8VnQnYcyc/0.jpg)](http://www.youtube.com/watch?v=4o8VnQnYcyc)
 
-If you are using Ethovision, you might be interested in another small tool from me: Ethovision Paste Tracks.
+If you are using Ethovision, you might be interested in another small tool from me: [Ethovision Paste Tracks](https://github.com/jepoirrier/EthovisionPasteTracks).
 
 ## How to export tracks from Ethovision
 
